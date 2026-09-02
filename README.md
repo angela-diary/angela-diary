@@ -10,19 +10,6 @@
 
 <br>
 
----
-
-## ACTIVITY / 2026
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=angela-diary&bg_color=F5F3EE&color=171717&line=171717&point=171717&area=false&hide_border=true" width="95%" alt="GitHub activity graph">
-
-</div>
-
-<br>
 
 ---
 
@@ -77,7 +64,9 @@ My personal web portfolio — a place to present selected work, skills, and proj
 <br>
 
 `PHP` · `Laravel` · `JavaScript`
+
 `HTML` · `CSS` · `Bootstrap`
+
 `MySQL` · `Git` · `GitHub`
 
 <br>
