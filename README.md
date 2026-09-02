@@ -1,10 +1,12 @@
 <div align="center">
 
-# ANGELA.
+# HIYA I'M _ANGELA_.
 
-**Web developer**
+*I'm currently training in web development and building my skills through projects. Most of what you’ll find here reflects what I’m working on, learning and improving as I progress.
 
-*Building things, learning by doing.*
+I’m interested in understanding how things work beyond just getting them to work.
+
+Outside of development, I’m usually watching crime series.*
 
 </div>
 
@@ -51,7 +53,7 @@ A flight booking platform focused on search, reservations, passengers, seats, ba
 
 My personal web portfolio — a place to present selected work, skills, and projects in more detail.
 
-`HTML` · `CSS` · `Bootstrap` · `PHP`
+`HTML` · `CSS` · `JavaScript`, `Bootstrap` · `PHP`
 
 **[ VIEW REPOSITORY → ](https://github.com/angela-diary/portfolio)**
 
