@@ -1,12 +1,12 @@
 <div align="center">
 
-# HIYA I'M _ANGELA_.
+# HIYA I'M _ANGELA_!
 
-*I'm currently training in web development and building my skills through projects. Most of what you’ll find here reflects what I’m working on, learning and improving as I progress.
+I'm currently training in web development and building my skills through projects. Most of what you’ll find here reflects what I’m working on, learning and improving as I progress.
 
 I’m interested in understanding how things work beyond just getting them to work.
 
-Outside of development, I’m usually watching crime series.*
+Outside of development, I’m usually watching crime series.
 
 </div>
 
