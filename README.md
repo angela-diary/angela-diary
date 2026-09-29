@@ -1,202 +1,313 @@
 <div align="center">
 
-# Salut, je suis Angela 👋🏾
-
-### Développeuse web
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5F3EE&height=180&section=header&text=ANGELA&fontSize=52&fontColor=171717&fontAlignY=50&desc=D%C3%89VELOPPEUSE%20WEB&descSize=15&descAlignY=72&descColor=555555" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=900&color=171717&center=true&vCenter=true&width=720&lines=Je+construis+des+projets+web;J%27apprends+en+faisant;Je+cherche%2C+je+teste%2C+je+recommence." alt="Typing SVG">
+<a href="https://github.com/angela-diary">
+  <img src="https://cdn.simpleicons.org/github/171717" width="28" height="28" alt="GitHub">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/angela-ahou">
+  <img src="https://cdn.simpleicons.org/linkedin/171717" width="28" height="28" alt="LinkedIn">
+</a>
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/angela-ahou">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" height="38" alt="LinkedIn">
+<img
+src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=18&duration=3000&pause=1000&color=171717&center=true&vCenter=true&width=650&height=40&lines=Je+construis+des+projets+web.;J%27apprends+%C3%A0+travers+des+projets+concrets.;Je+transforme+des+id%C3%A9es+en+applications."
+alt="Animation de présentation"
+/>
+
+</div>
+
+<br>
+
+---
+
+## À propos
+
+Je développe des applications et des interfaces web en transformant des idées en fonctionnalités concrètes.
+
+J'aime comprendre ce qui se passe derrière une interface : de l'interaction avec l'utilisateur jusqu'à la logique applicative et aux données qui la font fonctionner.
+
+Ma façon d'apprendre repose principalement sur la pratique :
+
+**construire → tester → casser → comprendre → améliorer**
+
+---
+
+## Technologies & outils
+
+<div align="center">
+
+### Front-end
+
+<br>
+
+<a href="https://developer.mozilla.org/fr/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML">
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/angela-diary">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" height="38" alt="GitHub">
+&nbsp;
+<a href="https://developer.mozilla.org/fr/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS">
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" height="48" alt="JavaScript">
+</a>
+&nbsp;
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" height="48" alt="React">
+</a>
+&nbsp;
+<a href="https://vite.dev/">
+<img src="https://skillicons.dev/icons?i=vite" height="48" alt="Vite">
+</a>
+&nbsp;
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS">
+</a>
+&nbsp;
+<a href="https://getbootstrap.com/">
+<img src="https://skillicons.dev/icons?i=bootstrap" height="48" alt="Bootstrap">
+</a>
+
+<br><br>
+
+### Back-end
+
+<br>
+
+<a href="https://www.php.net/">
+<img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP">
+</a>
+&nbsp;
+<a href="https://laravel.com/">
+<img src="https://skillicons.dev/icons?i=laravel" height="48" alt="Laravel">
+</a>
+
+<br><br>
+
+### Bases de données & services
+
+<br>
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL">
+</a>
+&nbsp;
+<a href="https://supabase.com/">
+<img src="https://skillicons.dev/icons?i=supabase" height="48" alt="Supabase">
+</a>
+
+<br><br>
+
+### Outils
+
+<br>
+
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" height="48" alt="Git">
+</a>
+&nbsp;
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code">
 </a>
 
 </div>
 
 ---
 
-## 👩🏾‍💻 À propos de moi
+## Projets sélectionnés
 
-Je développe des applications et des interfaces web à travers des projets concrets.
+<table>
+<tr>
 
-J'aime comprendre ce qui se passe derrière une interface : **chercher, tester, modifier, casser et comprendre pourquoi ça ne fonctionne pas**.
+<td width="50%" valign="top">
 
-Je travaille aussi bien sur l'interface utilisateur que sur la logique applicative et les données, avec un intérêt particulier pour le **JavaScript, React, PHP, Laravel et les bases de données**.
+### AngeliSky
 
-Mon GitHub rassemble surtout des projets réalisés pour apprendre, expérimenter et transformer progressivement des idées en applications fonctionnelles.
+**Application de réservation de vols**
 
----
+`Laravel` `PHP` `Blade` `MySQL`
 
-## 🧰 Technologies & outils
+MVP de réservation de vols développé autour d'un parcours complet de réservation.
 
-### 🎨 Front-End
+**Fonctionnalités**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" alt="HTML CSS JavaScript React Vite Tailwind Bootstrap">
-</p>
+* Recherche et réservation de vols
+* Gestion des passagers
+* Sélection des sièges
+* Gestion dynamique des bagages
+* Authentification
+* Gestion des réservations
+* Génération de PDF
+* Gestion des e-mails
+* Espace d'administration
 
-### ⚙️ Back-End
+</td>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel" alt="PHP Laravel">
-</p>
+<td width="50%" valign="top">
 
-### 🗄️ Bases de données & services
+### Scolarité & paiements
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,supabase" alt="MySQL Supabase">
-</p>
+**Plateforme de gestion scolaire**
 
-### 🔧 Outils
+`React` `JavaScript` `PHP` `MySQL`
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code">
-</p>
+Plateforme web destinée à centraliser les informations étudiantes, le suivi des paiements et la communication avec le back-end.
 
----
+**Fonctionnalités**
 
-# 🚀 Mes projets
+* Gestion des étudiants
+* Suivi des paiements de scolarité
+* Consultation des informations scolaires
+* Communication avec une API REST
+* Interface responsive
 
-## ✈️ AngeliSky
+</td>
 
-**Projet personnel · 2026**
+</tr>
 
-Application web de réservation de vols développée avec Laravel.
+<tr>
 
-**Environnement technique**
+<td width="50%" valign="top">
 
-`Laravel` `PHP` `Blade` `MySQL` `Eloquent`
+### Croq'Express
 
-**Réalisations**
-
-* ✈️ Recherche et réservation de vols
-* 👤 Authentification des utilisateurs
-* 🪑 Gestion des sièges
-* 🧳 Gestion des bagages selon les règles de réservation
-* 📋 Gestion des réservations
-* 📄 Génération de documents PDF
-* 📧 Envoi d'e-mails
-* ⚙️ Gestion des fonctionnalités côté administration
-
----
-
-## 🎓 Plateforme de gestion de scolarité
-
-**Projet EIG · 2026**
-
-Plateforme web destinée à centraliser la gestion de la scolarité, des paiements et de la communication avec les étudiants.
-
-**Environnement technique**
-
-`React` `JavaScript` `PHP` `MySQL` `REST API`
-
-**Réalisations**
-
-* 🎓 Gestion des informations liées aux étudiants
-* 💳 Suivi des paiements de scolarité
-* 📊 Consultation des données de scolarité
-* 🔌 Communication entre le front-end et le back-end via une API REST
-* 📱 Interface adaptée aux différents écrans
-
----
-
-## 🥪 Croq'Express
-
-**Projet personnel · 2026**
-
-Site web de commande pour un concept de restauration spécialisé dans les croques.
-
-**Environnement technique**
+**Site de commande en ligne**
 
 `PHP` `MySQL` `Bootstrap` `JavaScript`
 
-**Réalisations**
+Système de commande construit autour d'un menu, de produits personnalisables et d'un panier.
 
-* 🥪 Présentation des produits et formules
-* 🛒 Ajout et gestion des produits dans le panier
-* ➕ Gestion des options et suppléments
-* 💰 Calcul des montants selon la composition de la commande
-* 👤 Gestion de la connexion utilisateur
-* 📱 Interface responsive
+**Fonctionnalités**
 
----
+* Catalogue des produits
+* Options et suppléments
+* Gestion du panier
+* Calcul du montant des commandes
+* Connexion utilisateur
+* Interface responsive
 
-## ⏰ Rappel+
+</td>
 
-**Projet personnel · 2026**
+<td width="50%" valign="top">
 
-Application web destinée à organiser les tâches et les rendez-vous avec un système de rappels.
+### Rappel+
 
-**Environnement technique**
+**Application de tâches et rendez-vous**
 
-`React` `JavaScript` `Supabase` `Edge Functions`
+`React` `JavaScript` `Supabase`
 
-**Réalisations**
+Application destinée à organiser les tâches et les rendez-vous avec des processus automatisés de rappel.
 
-* ✅ Création et gestion des tâches
-* 📅 Gestion des rendez-vous
-* 🔔 Traitement des rappels
-* 📩 Envoi de notifications
-* ⚡ Fonctions serveur avec Supabase Edge Functions
+**Fonctionnalités**
 
----
+* Gestion des tâches
+* Gestion des rendez-vous
+* Traitement des rappels
+* Notifications
+* Supabase Edge Functions
 
-## 🧼 ESC — École de Savonnerie et de Cosmétique
+</td>
 
-**Hackathon · 2026**
+</tr>
 
-Conception et développement d'une plateforme web destinée à présenter les formations et faciliter la prise de contact.
+<tr>
 
-**Environnement technique**
+<td width="50%" valign="top">
 
-`Laravel` `PHP` `MySQL` `HTML` `CSS` `JavaScript`
+### ESC
 
-**Réalisations**
+**Plateforme de formation et de génération de contacts**
 
-* 🧴 Présentation des différentes formations
-* 📝 Mise en place du parcours de prise de contact
-* 🖼️ Gestion des médias depuis l'administration
-* 📞 Gestion des informations de contact
-* 🔗 Gestion des liens sociaux
-* ⚙️ Interface d'administration dédiée à la gestion du contenu
+`Laravel` `PHP` `MySQL` `JavaScript`
 
----
+Plateforme web développée pour l'École de Savonnerie et de Cosmétique.
 
-## 🌐 Portfolio personnel
+**Fonctionnalités**
 
-**Projet personnel · 2026**
+* Présentation des formations
+* Formulaires de contact
+* Gestion des médias
+* Gestion des informations de contact
+* Gestion des liens sociaux
+* Tableau de bord d'administration
 
-Portfolio web conçu pour présenter mon profil, mes compétences et mes réalisations.
+</td>
 
-**Environnement technique**
+<td width="50%" valign="top">
+
+### Portfolio
+
+**Portfolio personnel**
 
 `HTML` `CSS` `Bootstrap` `PHP`
 
-**Réalisations**
+Site personnel conçu pour présenter mon profil, mes compétences et mes projets.
 
-* 👩🏾‍💻 Présentation du profil
-* 🛠️ Présentation des compétences
-* 🚀 Mise en avant des projets
-* 📄 Accès au CV
-* 📬 Formulaire de contact
-* 🔗 Liens vers les réseaux professionnels
+**Contenu**
+
+* Profil
+* Compétences
+* Projets
+* CV
+* Contact
+* Liens professionnels
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 📊 Mon activité GitHub
+## Ce sur quoi je travaille
+
+```text
+DÉVELOPPEMENT WEB
+│
+├── Front-end
+│   ├── JavaScript
+│   ├── React
+│   ├── Interfaces responsives
+│   └── Intégration UI
+│
+├── Back-end
+│   ├── PHP
+│   ├── Laravel
+│   └── API REST
+│
+└── Données
+    ├── MySQL
+    └── Supabase
+```
+
+Je cherche actuellement à renforcer ma maîtrise du **back-end, des bases de données et de la communication entre le front-end, le serveur et les données**.
+
+---
+
+## Activité GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=angela-diary&show_icons=true&hide_border=true&rank_icon=github&title_color=171717&text_color=171717&icon_color=171717" height="170" alt="GitHub Stats">
+<img
+src="https://github-readme-stats.vercel.app/api?username=angela-diary&show_icons=true&hide_border=true&bg_color=F5F3EE&title_color=171717&text_color=444444&icon_color=171717&rank_icon=github"
+height="165"
+alt="Statistiques GitHub"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angela-diary&layout=compact&hide_border=true&title_color=171717&text_color=171717" height="170" alt="Top Languages">
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=angela-diary&layout=compact&hide_border=true&bg_color=F5F3EE&title_color=171717&text_color=444444"
+height="165"
+alt="Langages les plus utilisés"
+/>
 
 </div>
 
@@ -204,44 +315,30 @@ Portfolio web conçu pour présenter mon profil, mes compétences et mes réalis
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=angela-diary&hide_border=true&ring=171717&fire=171717&currStreakLabel=171717" alt="GitHub Streak">
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=angela-diary&hide_border=true&background=F5F3EE&ring=171717&fire=171717&currStreakLabel=171717&sideLabels=444444&dates=777777"
+alt="Activité GitHub"
+/>
 
 </div>
 
 ---
 
-# 📬 Me contacter
-
 <div align="center">
-
-<a href="https://www.linkedin.com/in/angela-ahou">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn">
-</a>
-
-   
 
 <a href="https://github.com/angela-diary">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-angela--diary-171717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-</div>
+ 
 
-<br>
+<a href="https://www.linkedin.com/in/angela-ahou">
+  <img src="https://img.shields.io/badge/LinkedIn-Angela%20Ahouansou-171717?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-<div align="center">
+<br><br>
 
-**LinkedIn :** [Angela Ahouansou](https://www.linkedin.com/in/angela-ahou)
-
-**GitHub :** [angela-diary](https://github.com/angela-diary)
-
-</div>
-
----
-
-<div align="center">
-
-### Apprendre en faisant.
-
-**Chercher · Tester · Construire · Recommencer**
+<sub>Construire. Casser. Comprendre. Améliorer.</sub>
 
 </div>
+``` 
