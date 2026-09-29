@@ -1,109 +1,64 @@
-
 <div align="center">
 
-# ANGELA
+# Angela Ahouansou
+### Développeuse Web Full-Stack
 
-### DÉVELOPPEUSE WEB
-
-Je transforme des idées en interfaces et applications web fonctionnelles.  
-J’aime comprendre comment les choses fonctionnent, expérimenter, casser, corriger — puis recommencer mieux.
+Je transforme des idées en applications web fonctionnelles. J'aime comprendre, expérimenter, corriger — et recommencer mieux.
 
 <br>
 
-<a href="https://github.com/angela-diary">
-  <img src="https://img.shields.io/badge/GitHub-angela--diary-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-angela--diary-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angela-diary)
 &nbsp;
-<a href="https://www.linkedin.com/in/angela-ahou">
-  <img src="https://img.shields.io/badge/LinkedIn-Angela%20Ahouansou-171717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angela%20Ahouansou-171717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angela-ahou)
 
 </div>
 
 ---
 
-## À propos
-
-Je travaille principalement sur des projets web où je peux toucher à plusieurs parties d'une application : interface, logique métier, données et intégration.
-
-Mon approche est assez simple :
-
-> **chercher → tester → casser → comprendre → améliorer**
-
-Je préfère construire des projets concrets plutôt que simplement accumuler des technologies.
-
----
-
-## Stack
+## 🛠️ Stack Technique
 
 ### Front-end
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,tailwind" />
 </p>
 
-### Back-end
-
+### Back-end & Base de données
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,supabase" />
 </p>
 
-### Database & outils
-
+### Outils & Versioning
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,supabase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## Projets sélectionnés
+## 🚀 Projets Sélectionnés
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### ✦ AngeliSky
-
 **MVP de réservation de vols**
 
-Application développée avec Laravel permettant de rechercher un vol, gérer les passagers, choisir un siège et des bagages, puis suivre une réservation.
+Application complète permettant de rechercher des vols, gérer les passagers, personnaliser les options (sièges, bagages) et suivre les réservations.
 
-**Stack**
-
-`Laravel` `PHP` `Blade` `MySQL` `Eloquent`
-
-**Fonctionnalités**
-
-- Authentification
-- Réservation de vols
-- Gestion des passagers
-- Choix siège & bagages
-- Génération de PDF
-- Envoi d'e-mails
-- Espace administrateur
+* **Stack :** Laravel, Blade, MySQL, Eloquent
+* **Fonctionnalités :** Auth, gestion des réservations, PDF, e-mails, espace admin.
 
 </td>
 
 <td width="50%" valign="top">
 
 ### ✦ Croq'Express
+**Site de commande en ligne**
 
-**Site de commande de croques-monsieur**
+Application web interactive pour la gestion d'un catalogue de produits, des options de personnalisation et du panier.
 
-Application web développée en PHP avec gestion du menu, des produits, des options et du panier.
-
-**Stack**
-
-`PHP` `MySQL` `Bootstrap`
-
-**Fonctionnalités**
-
-- Menu dynamique
-- Variantes de produits
-- Gestion des suppléments
-- Panier
-- Connexion utilisateur
-- Calcul des commandes
+* **Stack :** PHP, MySQL, Bootstrap
+* **Fonctionnalités :** Menu dynamique, variantes et suppléments, panier, calcul des commandes.
 
 </td>
 </tr>
@@ -112,44 +67,24 @@ Application web développée en PHP avec gestion du menu, des produits, des opti
 <td width="50%" valign="top">
 
 ### ✦ Rappel+
+**Application de productivité**
 
-**Application de rappels**
+Gestionnaire de tâches et de rendez-vous avec un système de notifications et d'alertes en temps réel.
 
-Application React connectée à Supabase pour gérer des tâches et rendez-vous avec un système de rappels.
-
-**Stack**
-
-`React` `JavaScript` `Supabase`
-
-**Fonctionnalités**
-
-- Gestion des tâches
-- Gestion des rendez-vous
-- Rappels automatiques
-- Envoi d'e-mails
-- Notifications Web Push
+* **Stack :** React, JavaScript, Supabase
+* **Fonctionnalités :** Tâches/RDV, rappels automatiques, e-mails, Web Push.
 
 </td>
 
 <td width="50%" valign="top">
 
 ### ✦ Gestion de scolarité
+**Plateforme numérique scolaire**
 
-**Plateforme numérique de gestion scolaire**
+Solution centralisée pour la gestion administrative, le suivi des paiements et la communication.
 
-Projet réalisé dans le cadre de ma formation, autour de la gestion de la scolarité, des paiements et de la communication.
-
-**Stack**
-
-`React` `JavaScript` `PHP` `MySQL`
-
-**Fonctionnalités**
-
-- Interface React
-- API REST en PHP
-- Gestion des données
-- Gestion des paiements
-- Communication liée à la scolarité
+* **Stack :** React, API REST PHP, MySQL
+* **Fonctionnalités :** Interface dynamique, API REST, gestion des données et des paiements.
 
 </td>
 </tr>
@@ -157,24 +92,12 @@ Projet réalisé dans le cadre de ma formation, autour de la gestion de la scola
 
 ---
 
-## En construction
-
-Je continue actuellement à approfondir :
-
-**JavaScript · React · PHP · Laravel · MySQL · Architecture web**
-
-avec une attention particulière portée à la compréhension du **back-end** et de la logique métier.
-
----
-
 <div align="center">
 
-### Construire. Casser. Comprendre. Améliorer.
+> **Construire · Casser · Comprendre · Améliorer**
 
 <br>
 
-<a href="https://github.com/angela-diary">GitHub</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/angela-ahou">LinkedIn</a>
+[GitHub](https://github.com/angela-diary) · [LinkedIn](https://www.linkedin.com/in/angela-ahou)
 
 </div>
