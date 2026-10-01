@@ -1,9 +1,9 @@
 <div align="center">
 
 # Angela Ahouansou
-### Développeuse Web Full-Stack
+### Développeuse Web Junior
 
-Je transforme des idées en applications web fonctionnelles. J'aime comprendre, expérimenter, corriger — et recommencer mieux.
+Je transforme des idées en applications web fonctionnelles. J'aime comprendre, expérimenter, corriger et recommencer mieux.
 
 <br>
 
